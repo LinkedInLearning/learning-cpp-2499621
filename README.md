@@ -15,7 +15,9 @@ Die Ordner sind passend zu den Videos im Kurs strukturiert. Die Namenskonvention
 ## Nutzung
 
 1. Um diese Übungsdateien nutzen zu können, forken Sie bitte dieses Repository in Ihren persönlichen github Bereich. Dafür sehen Sie sich bitte das Einführungsvideo in GitHub dieses Kurses an. Eine englische github Dokumentation finden Sie unter diesem [Link](https://docs.github.com/en/get-started/quickstart/fork-a-repo).
-2. Als nächstes öffnen Sie den github Codespace für Ihren persönlichen fork, wie im Einführungsvideo gezeigt. Danach können Sie mit den Übungsaufgaben beginnen.
+2. Als nächstes öffnen Sie den github Codespace für Ihren persönlichen fork, wie im Einführungsvideo gezeigt. Installieren Sie die Extension `C/C++ Extension Pack`, wenn VS Code Sie dazu auffordert. Alternativ können Sie es auch explizit in den Extensions suchen und installieren.
+3. Schließen und öffnen Sie den Codespace, damit die Extension richtig geladen wird.
+4. Danach können Sie mit den Übungsaufgaben beginnen.
 
 ### Autor
 
