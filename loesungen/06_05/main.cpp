@@ -106,7 +106,7 @@ int main()
       int wahl_2;
       std::cin >> wahl_2;
 
-      // Spieler 1 = Kreis = Wert 2
+      // Spieler 2 = Kreis = Wert 2
       array[wahl_2] = 2;
 
       // Überprüfen ob Spieler 2 gewonnen hat
