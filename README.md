@@ -2,7 +2,7 @@
 
 Dies ist das Repository für den **LinkedIn Learning** Kurs `C++ Lernen`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
 
-![COURSENAME][lil-thumbnail-url][Copy&Past Image from LiL-Buddy] 
+![COURSENAME][lil-thumbnail-url] 
 
 ## Anleitung
 
@@ -24,3 +24,7 @@ Die Ordner sind passend zu den Videos im Kurs strukturiert. Die Namenskonvention
 **Dr. Julia Nitsch**
 
 _Leiterin Umfeldwahrnehmung, Jedsy_
+
+[0]: # (Replace these placeholder URLs with actual course URLs)
+[lil-course-url]: https://www.linkedin.com/learning/c-plus-plus-lernen
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/C560DAQH-S_qySBCQAQ/learning-public-crop_675_1200/0/1674470197563?e=1675177200&v=beta&t=1I0HACPItUGnlbboyj4VUrlJk6uPvv93VHuval3fe9A
