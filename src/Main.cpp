@@ -2,17 +2,17 @@
 // using namespace std;
 
 int main()
-{
-  double var_1 = 6.7;
-  double var_2 = 6.6;
 
-  if (var_1 >= var_2)
+{
+  int array[5] = {};
+  for (int i = 0; i <= 4; i++)
   {
-    std::cout << "IF Kondition ist erfolgreich" << std::endl;
-  }
-  else
-  {
-    std::cout << "IF Kondition ist NICHT erfolgreich" << std::endl;
+    array[i] = i * 3;
+
+    if (array[i] >= 6)
+    {
+      std::cout << array[i] << std::endl;
+    }
   }
 
   return 0;
